@@ -1,0 +1,1 @@
+A simple application to be deployed on Docker.
